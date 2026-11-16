@@ -1,0 +1,12 @@
+{
+  "name": "komugi-v2",
+  "version": "2.0.0",
+  "description": "SNS情報からレシピを作る試作版",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
